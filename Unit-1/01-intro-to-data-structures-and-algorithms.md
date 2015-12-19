@@ -20,6 +20,8 @@ Some questions you have to ask and decisions you have to make are:
 - What is the ease of implementation (not always the best question...)?
 
 ## Common data structures
+* Arrays
+* Hash tables
 * Linked Lists
   * Singly Linked List
   * Doubly Linked List
